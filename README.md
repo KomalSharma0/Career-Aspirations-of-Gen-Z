@@ -17,15 +17,15 @@ This project analyzes survey data collected from Gen Z respondents to uncover in
 ## Key Dashboards  
 ### 1. Learning Aspirations Dashboard  
 Focuses on respondents' higher education preferences, learning modes, and the influence of external factors like parents and peers.  
-![Learning Aspirations Dashboard](./screenshots/learning_aspirations_dashboard.png)  
+![Learning Aspirations Dashboard](https://github.com/KomalSharma0/Career-Aspirations-of-Gen-Z/blob/main/Learning%20Aspirations.png)  
 
 ### 2. Manager Aspirations Dashboard  
 Analyzes respondents' expectations from managers, willingness to work under high-pressure environments, and salary expectations.  
-![Manager Aspirations Dashboard](./screenshots/manager_aspirations_dashboard.png)  
+![Manager Aspirations Dashboard](https://github.com/KomalSharma0/Career-Aspirations-of-Gen-Z/blob/main/Manager%20Aspirations.png)  
 
 ### 3. Mission Aspirations Dashboard  
 Explores respondents' preferences regarding companies with socially impactful missions, transparency, and mission alignment.  
-![Mission Aspirations Dashboard](./screenshots/mission_aspirations_dashboard.png)  
+![Mission Aspirations Dashboard](https://github.com/KomalSharma0/Career-Aspirations-of-Gen-Z/blob/main/Mission%20Aspirations.png)  
 
 ## Key Findings  
 - **Learning Aspirations**: Most respondents aspire to pursue higher education, with affordability being a key concern.  
@@ -39,4 +39,5 @@ Explores respondents' preferences regarding companies with socially impactful mi
  
 ## Presentation  
 The findings and recommendations were compiled into a professional PowerPoint presentation, showcasing key insights through a visual narrative.  
-Download the PowerPoint presentation here: [Career Aspirations of Gen Z Presentation](path-to-ppt-file)
+Download the PowerPoint presentation here: [Career Aspirations of Gen Z Presentation](https://github.com/KomalSharma0/Career-Aspirations-of-Gen-Z/blob/main/GenZ%20Career%20Aspirations%20PPT.pptx
+)
